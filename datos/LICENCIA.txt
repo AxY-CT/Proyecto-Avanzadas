@@ -1,0 +1,27 @@
+LICENCIA DE LOS DATOS DE PRUEBA
+=====================================
+
+Estos archivos de audio han sido generados sintéticamente
+para fines educativos del proyecto terminal:
+
+"Denoising de Audio con FFT - Aplicación de Transformada de Fourier"
+
+Curso: Matemáticas Avanzadas para la Ingeniería 26-1
+Escuela Superior de Cómputo - IPN
+
+AUTOR:
+[Sanchez Gonzalez Axel]
+
+LICENCIA:
+Se permite el uso, modificación y distribución de estos archivos
+exclusivamente para fines educativos, académicos y de investigación.
+
+Se prohíbe el uso comercial sin autorización expresa de los autores.
+
+GENERACIÓN:
+- Señales sinusoidales: x(t) = A·sin(2pift)
+- Ruido gaussiano: n(t) ~ N(0, (sigma)²)
+- Ruido tonal: r(t) = B·sin(2pif_ruido t)
+- Frecuencia de muestreo: 44100 Hz (estándar CD)
+- Cuantización: 16 bits (formato PCM)
+- Duración: 3.0 segundos por archivo
